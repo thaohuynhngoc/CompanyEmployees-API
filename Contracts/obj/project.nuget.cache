@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mpMsEmMQj3A4LOLszy70EidJjTmtrGBNS0k1CtjQY/sE35D4vUbc6MICYZ/Rro+1jLAZvTLX0v5if/Zq9O+csQ==",
+  "success": true,
+  "projectFilePath": "C:\\CompanyEmployees\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thao.huynhngoc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\thao.huynhngoc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\thao.huynhngoc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
